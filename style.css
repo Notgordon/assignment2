@@ -45,7 +45,26 @@ tbody tr:nth-child(odd){
 
  }
 
+dt:hover { 
+
+   background-color: purple;
+
+}
 
 
+.outer-container {
+    padding: 25px;
+    border: 25px;
+    margin-top: 20px;
+    background-color: pink;
+    width: 75%;
+}
 
+.inner-container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: blue;
+    width: 25%;
+}
 
